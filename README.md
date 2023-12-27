@@ -26,7 +26,7 @@ Model insights include:
 
 ## 🎉 Final Remarks
 
-Through rigorous data analysis and meticulous model evaluation, this project provides a robust predictive framework for retail sales. XGBoost Regression, in particular, has proven its efficacy, offering Rossmann Stores a potent tool for strategic planning and decision-making.
+Through analysis and model evaluation, this project provides a robust predictive framework for retail sales. XGBoost Regression, in particular, has proven its efficacy, offering Rossmann Stores a potent tool for strategic planning and decision-making.
 
 
 **Wishing you insightful analytics and strategic foresight!**
