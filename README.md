@@ -7,7 +7,7 @@ In the fast-paced world of retail, having the ability to predict sales is of par
 Before diving into the models, it's crucial to understand the nuances of the dataset. Here are the key findings from the EDA:
 
 1. **Seasonal Variation:** The sales data revealed that the business experiences a seasonal fluctuation, especially during the holiday season. This indicates a need for strategies to stimulate demand during non-peak seasons.
-2. **Competition:** Surprisingly, areas with higher competition witnessed better sales, which begs the question of whether competition drives better performance. Store locations and marketing strategies should hence consider this aspect.
+2. **Competition:** Areas with higher competition witnessed better sales. This insight can be used while selecting Store locations and where to focus marketing strategies.
 3. **Promotions:** As expected, promotional periods give a substantial boost to sales. This underlines the importance of strategic planning around promotions.
 4. **Store Type and Assortment:** Not all store types and assortments are made equal. Store type 'b' and assortment type 'c' lead the race in terms of sales.
 5. **Sales Volume Trend:** A positive trend in sales volume indicates a growing business and a rising number of sales transactions. 
